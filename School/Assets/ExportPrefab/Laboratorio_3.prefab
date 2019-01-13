@@ -1301,7 +1301,6 @@ Transform:
   - {fileID: 517988773386834850}
   - {fileID: 517988774332739441}
   - {fileID: 517988775174104193}
-  - {fileID: 2084446152647680093}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1381,10 +1380,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988774392241325}
     m_Modifications:
-    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
-      propertyPath: m_Name
-      value: Keyboard05
-      objectReference: {fileID: 0}
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.16437486
@@ -1440,6 +1435,10 @@ PrefabInstance:
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.70000017
+      objectReference: {fileID: 0}
+    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
+      propertyPath: m_Name
+      value: Keyboard05
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
@@ -1734,10 +1733,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988775016353558}
     m_Modifications:
-    - target: {fileID: 141140, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
-      propertyPath: m_Name
-      value: Light_Object_5
-      objectReference: {fileID: 0}
     - target: {fileID: 466368, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.75825083
@@ -1790,6 +1785,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0000005
       objectReference: {fileID: 0}
+    - target: {fileID: 141140, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
+      propertyPath: m_Name
+      value: Light_Object_5
+      objectReference: {fileID: 0}
     - target: {fileID: 2326502, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -1809,10 +1808,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988774466079203}
     m_Modifications:
-    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
-      propertyPath: m_Name
-      value: Chair01a
-      objectReference: {fileID: 0}
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.7060056
@@ -1856,6 +1851,10 @@ PrefabInstance:
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
+      propertyPath: m_Name
+      value: Chair01a
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 406416920addf5d408961e0385a837f5, type: 3}
@@ -1937,10 +1936,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988775457841012}
     m_Modifications:
-    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
-      propertyPath: m_Name
-      value: Keyboard05
-      objectReference: {fileID: 0}
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.16437486
@@ -1996,6 +1991,10 @@ PrefabInstance:
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.70000017
+      objectReference: {fileID: 0}
+    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
+      propertyPath: m_Name
+      value: Keyboard05
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
@@ -2150,10 +2149,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988774172659100}
     m_Modifications:
-    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
-      propertyPath: m_Name
-      value: Chair01a
-      objectReference: {fileID: 0}
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.7060056
@@ -2198,6 +2193,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
+      propertyPath: m_Name
+      value: Chair01a
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 406416920addf5d408961e0385a837f5, type: 3}
 --- !u!4 &517988773658622008 stripped
@@ -2213,10 +2212,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988774475037815}
     m_Modifications:
-    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
-      propertyPath: m_Name
-      value: Keyboard05
-      objectReference: {fileID: 0}
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.16437486
@@ -2272,6 +2267,10 @@ PrefabInstance:
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.70000017
+      objectReference: {fileID: 0}
+    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
+      propertyPath: m_Name
+      value: Keyboard05
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
@@ -2501,10 +2500,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988773622498034}
     m_Modifications:
-    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
-      propertyPath: m_Name
-      value: Chair01a
-      objectReference: {fileID: 0}
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.7060056
@@ -2549,6 +2544,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
+      propertyPath: m_Name
+      value: Chair01a
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 406416920addf5d408961e0385a837f5, type: 3}
 --- !u!4 &517988773755934734 stripped
@@ -2564,10 +2563,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988773580488167}
     m_Modifications:
-    - target: {fileID: 138494, guid: 58518075de2296f41a4cb481295a8957, type: 3}
-      propertyPath: m_Name
-      value: Mousepad03
-      objectReference: {fileID: 0}
     - target: {fileID: 434190, guid: 58518075de2296f41a4cb481295a8957, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.5447164
@@ -2612,6 +2607,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 138494, guid: 58518075de2296f41a4cb481295a8957, type: 3}
+      propertyPath: m_Name
+      value: Mousepad03
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 58518075de2296f41a4cb481295a8957, type: 3}
 --- !u!4 &517988773763684991 stripped
@@ -2627,10 +2626,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988774602834652}
     m_Modifications:
-    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
-      propertyPath: m_Name
-      value: Keyboard05
-      objectReference: {fileID: 0}
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.16437486
@@ -2686,6 +2681,10 @@ PrefabInstance:
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.70000017
+      objectReference: {fileID: 0}
+    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
+      propertyPath: m_Name
+      value: Keyboard05
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
@@ -2905,10 +2904,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988774771984350}
     m_Modifications:
-    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
-      propertyPath: m_Name
-      value: Chair01a
-      objectReference: {fileID: 0}
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.7060056
@@ -2952,6 +2947,10 @@ PrefabInstance:
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
+      propertyPath: m_Name
+      value: Chair01a
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 406416920addf5d408961e0385a837f5, type: 3}
@@ -3112,10 +3111,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988773600187419}
     m_Modifications:
-    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
-      propertyPath: m_Name
-      value: Keyboard05
-      objectReference: {fileID: 0}
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.16437486
@@ -3171,6 +3166,10 @@ PrefabInstance:
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.70000017
+      objectReference: {fileID: 0}
+    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
+      propertyPath: m_Name
+      value: Keyboard05
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
@@ -3554,10 +3553,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988775016353558}
     m_Modifications:
-    - target: {fileID: 141140, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
-      propertyPath: m_Name
-      value: Light_Object_2
-      objectReference: {fileID: 0}
     - target: {fileID: 466368, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.25
@@ -3610,6 +3605,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0000005
       objectReference: {fileID: 0}
+    - target: {fileID: 141140, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
+      propertyPath: m_Name
+      value: Light_Object_2
+      objectReference: {fileID: 0}
     - target: {fileID: 2326502, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -3629,10 +3628,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988774794623889}
     m_Modifications:
-    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
-      propertyPath: m_Name
-      value: Chair01a
-      objectReference: {fileID: 0}
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.7060056
@@ -3676,6 +3671,10 @@ PrefabInstance:
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
+      propertyPath: m_Name
+      value: Chair01a
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 406416920addf5d408961e0385a837f5, type: 3}
@@ -3692,10 +3691,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988774352429621}
     m_Modifications:
-    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
-      propertyPath: m_Name
-      value: Chair01a
-      objectReference: {fileID: 0}
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.7060056
@@ -3739,6 +3734,10 @@ PrefabInstance:
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
+      propertyPath: m_Name
+      value: Chair01a
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 406416920addf5d408961e0385a837f5, type: 3}
@@ -3897,10 +3896,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988774441326439}
     m_Modifications:
-    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
-      propertyPath: m_Name
-      value: Chair01a
-      objectReference: {fileID: 0}
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.7060056
@@ -3944,6 +3939,10 @@ PrefabInstance:
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
+      propertyPath: m_Name
+      value: Chair01a
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 406416920addf5d408961e0385a837f5, type: 3}
@@ -4033,10 +4032,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988774778269216}
     m_Modifications:
-    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
-      propertyPath: m_Name
-      value: Keyboard05
-      objectReference: {fileID: 0}
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.16437486
@@ -4092,6 +4087,10 @@ PrefabInstance:
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.70000017
+      objectReference: {fileID: 0}
+    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
+      propertyPath: m_Name
+      value: Keyboard05
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
@@ -4177,10 +4176,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988775016353558}
     m_Modifications:
-    - target: {fileID: 141140, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
-      propertyPath: m_Name
-      value: Light_Object_6
-      objectReference: {fileID: 0}
     - target: {fileID: 466368, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.25
@@ -4232,6 +4227,10 @@ PrefabInstance:
     - target: {fileID: 466368, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
       propertyPath: m_LocalScale.z
       value: 1.0000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 141140, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
+      propertyPath: m_Name
+      value: Light_Object_6
       objectReference: {fileID: 0}
     - target: {fileID: 2326502, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -4471,10 +4470,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988774475371016}
     m_Modifications:
-    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
-      propertyPath: m_Name
-      value: Keyboard05
-      objectReference: {fileID: 0}
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.16437486
@@ -4530,6 +4525,10 @@ PrefabInstance:
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.70000017
+      objectReference: {fileID: 0}
+    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
+      propertyPath: m_Name
+      value: Keyboard05
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
@@ -4540,10 +4539,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988774878575941}
     m_Modifications:
-    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
-      propertyPath: m_Name
-      value: Keyboard05
-      objectReference: {fileID: 0}
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.16437486
@@ -4599,6 +4594,10 @@ PrefabInstance:
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.70000017
+      objectReference: {fileID: 0}
+    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
+      propertyPath: m_Name
+      value: Keyboard05
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
@@ -4684,10 +4683,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988773947302937}
     m_Modifications:
-    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
-      propertyPath: m_Name
-      value: Keyboard05
-      objectReference: {fileID: 0}
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.16437486
@@ -4743,6 +4738,10 @@ PrefabInstance:
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.70000017
+      objectReference: {fileID: 0}
+    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
+      propertyPath: m_Name
+      value: Keyboard05
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
@@ -5047,10 +5046,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988775016353558}
     m_Modifications:
-    - target: {fileID: 141140, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
-      propertyPath: m_Name
-      value: Light_Object_4
-      objectReference: {fileID: 0}
     - target: {fileID: 466368, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.25
@@ -5102,6 +5097,10 @@ PrefabInstance:
     - target: {fileID: 466368, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
       propertyPath: m_LocalScale.z
       value: 1.0000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 141140, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
+      propertyPath: m_Name
+      value: Light_Object_4
       objectReference: {fileID: 0}
     - target: {fileID: 2326502, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -5913,10 +5912,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988773988154686}
     m_Modifications:
-    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
-      propertyPath: m_Name
-      value: Chair01a
-      objectReference: {fileID: 0}
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.7060056
@@ -5960,6 +5955,10 @@ PrefabInstance:
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
+      propertyPath: m_Name
+      value: Chair01a
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 406416920addf5d408961e0385a837f5, type: 3}
@@ -6045,10 +6044,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988774648386722}
     m_Modifications:
-    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
-      propertyPath: m_Name
-      value: Chair01a
-      objectReference: {fileID: 0}
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.7060056
@@ -6092,6 +6087,10 @@ PrefabInstance:
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
+      propertyPath: m_Name
+      value: Chair01a
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 406416920addf5d408961e0385a837f5, type: 3}
@@ -6177,10 +6176,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988775282224813}
     m_Modifications:
-    - target: {fileID: 105632, guid: 0b2b8c2e573742a4191b0131ff89214b, type: 3}
-      propertyPath: m_Name
-      value: Paper01
-      objectReference: {fileID: 0}
     - target: {fileID: 449860, guid: 0b2b8c2e573742a4191b0131ff89214b, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.3999994
@@ -6236,6 +6231,10 @@ PrefabInstance:
     - target: {fileID: 449860, guid: 0b2b8c2e573742a4191b0131ff89214b, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.69332284
+      objectReference: {fileID: 0}
+    - target: {fileID: 105632, guid: 0b2b8c2e573742a4191b0131ff89214b, type: 3}
+      propertyPath: m_Name
+      value: Paper01
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0b2b8c2e573742a4191b0131ff89214b, type: 3}
@@ -6471,10 +6470,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988773999826697}
     m_Modifications:
-    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
-      propertyPath: m_Name
-      value: Keyboard05
-      objectReference: {fileID: 0}
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.16437486
@@ -6530,6 +6525,10 @@ PrefabInstance:
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.70000017
+      objectReference: {fileID: 0}
+    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
+      propertyPath: m_Name
+      value: Keyboard05
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
@@ -6682,10 +6681,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988773403342824}
     m_Modifications:
-    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
-      propertyPath: m_Name
-      value: Chair01a
-      objectReference: {fileID: 0}
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.7060056
@@ -6729,6 +6724,10 @@ PrefabInstance:
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
+      propertyPath: m_Name
+      value: Chair01a
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 406416920addf5d408961e0385a837f5, type: 3}
@@ -6960,10 +6959,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988774783771848}
     m_Modifications:
-    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
-      propertyPath: m_Name
-      value: Keyboard05
-      objectReference: {fileID: 0}
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.16437486
@@ -7019,6 +7014,10 @@ PrefabInstance:
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.70000017
+      objectReference: {fileID: 0}
+    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
+      propertyPath: m_Name
+      value: Keyboard05
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
@@ -7443,27 +7442,22 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 517988775427229981}
+    m_TransformParent: {fileID: 517988774468103538}
     m_Modifications:
-    - target: {fileID: 2007818941778213657, guid: fd0c28e807798db409eeb52fcc85584e,
-        type: 3}
-      propertyPath: m_Name
-      value: Door1 Variant (1)
-      objectReference: {fileID: 0}
     - target: {fileID: 2007818941777979193, guid: fd0c28e807798db409eeb52fcc85584e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.2572508
+      value: 1.043036
       objectReference: {fileID: 0}
     - target: {fileID: 2007818941777979193, guid: fd0c28e807798db409eeb52fcc85584e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.8152901
+      value: 0.078003205
       objectReference: {fileID: 0}
     - target: {fileID: 2007818941777979193, guid: fd0c28e807798db409eeb52fcc85584e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.078356266
+      value: -0.0025399693
       objectReference: {fileID: 0}
     - target: {fileID: 2007818941777979193, guid: fd0c28e807798db409eeb52fcc85584e,
         type: 3}
@@ -7473,7 +7467,7 @@ PrefabInstance:
     - target: {fileID: 2007818941777979193, guid: fd0c28e807798db409eeb52fcc85584e,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.7136677
+      value: -0.9999566
       objectReference: {fileID: 0}
     - target: {fileID: 2007818941777979193, guid: fd0c28e807798db409eeb52fcc85584e,
         type: 3}
@@ -7483,12 +7477,12 @@ PrefabInstance:
     - target: {fileID: 2007818941777979193, guid: fd0c28e807798db409eeb52fcc85584e,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.70048445
+      value: 0.009321928
       objectReference: {fileID: 0}
     - target: {fileID: 2007818941777979193, guid: fd0c28e807798db409eeb52fcc85584e,
         type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2007818941777979193, guid: fd0c28e807798db409eeb52fcc85584e,
         type: 3}
@@ -7508,12 +7502,22 @@ PrefabInstance:
     - target: {fileID: 2007818941777979193, guid: fd0c28e807798db409eeb52fcc85584e,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 1
+      value: 2.540003
       objectReference: {fileID: 0}
     - target: {fileID: 2007818941777979193, guid: fd0c28e807798db409eeb52fcc85584e,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 1
+      value: 2.540003
+      objectReference: {fileID: 0}
+    - target: {fileID: 2007818941777979193, guid: fd0c28e807798db409eeb52fcc85584e,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.540005
+      objectReference: {fileID: 0}
+    - target: {fileID: 2007818941778213657, guid: fd0c28e807798db409eeb52fcc85584e,
+        type: 3}
+      propertyPath: m_Name
+      value: Door1 Variant (1)
       objectReference: {fileID: 0}
     - target: {fileID: 662491816, guid: fd0c28e807798db409eeb52fcc85584e, type: 3}
       propertyPath: timeToClose
@@ -7601,12 +7605,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fd0c28e807798db409eeb52fcc85584e, type: 3}
---- !u!4 &2084446152647680093 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 2007818941777979193, guid: fd0c28e807798db409eeb52fcc85584e,
-    type: 3}
-  m_PrefabInstance: {fileID: 517988775142655844}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &517988775174029227
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8046,10 +8044,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988774530008526}
     m_Modifications:
-    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
-      propertyPath: m_Name
-      value: Keyboard05
-      objectReference: {fileID: 0}
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.16437486
@@ -8106,6 +8100,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 0.70000017
       objectReference: {fileID: 0}
+    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
+      propertyPath: m_Name
+      value: Keyboard05
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
 --- !u!1001 &517988775314470333
@@ -8115,10 +8113,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988775016353558}
     m_Modifications:
-    - target: {fileID: 141140, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
-      propertyPath: m_Name
-      value: Light_Object_3
-      objectReference: {fileID: 0}
     - target: {fileID: 466368, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.75825083
@@ -8170,6 +8164,10 @@ PrefabInstance:
     - target: {fileID: 466368, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
       propertyPath: m_LocalScale.z
       value: 1.0000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 141140, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
+      propertyPath: m_Name
+      value: Light_Object_3
       objectReference: {fileID: 0}
     - target: {fileID: 2326502, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -8259,10 +8257,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988773510630239}
     m_Modifications:
-    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
-      propertyPath: m_Name
-      value: Chair01a
-      objectReference: {fileID: 0}
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.7060056
@@ -8306,6 +8300,10 @@ PrefabInstance:
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
+      propertyPath: m_Name
+      value: Chair01a
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 406416920addf5d408961e0385a837f5, type: 3}
@@ -8397,10 +8395,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988775016353558}
     m_Modifications:
-    - target: {fileID: 141140, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
-      propertyPath: m_Name
-      value: Light_Object_1
-      objectReference: {fileID: 0}
     - target: {fileID: 466368, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.75825083
@@ -8453,6 +8447,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 141140, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
+      propertyPath: m_Name
+      value: Light_Object_1
+      objectReference: {fileID: 0}
     - target: {fileID: 2326502, guid: fd42e5b9b263821408c2aa5b5e320747, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -8472,10 +8470,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988773580488167}
     m_Modifications:
-    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
-      propertyPath: m_Name
-      value: Keyboard05
-      objectReference: {fileID: 0}
     - target: {fileID: 483930, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.011076
@@ -8528,6 +8522,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.6999989
       objectReference: {fileID: 0}
+    - target: {fileID: 157780, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
+      propertyPath: m_Name
+      value: Keyboard05
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85cb4eeb74a52904d862ba3273ffd10e, type: 3}
 --- !u!4 &517988775391055926 stripped
@@ -8543,10 +8541,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 517988774002569674}
     m_Modifications:
-    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
-      propertyPath: m_Name
-      value: Chair01a
-      objectReference: {fileID: 0}
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.7060056
@@ -8590,6 +8584,10 @@ PrefabInstance:
     - target: {fileID: 431404, guid: 406416920addf5d408961e0385a837f5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 152956, guid: 406416920addf5d408961e0385a837f5, type: 3}
+      propertyPath: m_Name
+      value: Chair01a
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 406416920addf5d408961e0385a837f5, type: 3}

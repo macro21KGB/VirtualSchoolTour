@@ -6,9 +6,9 @@ public class Door : MonoBehaviour
 {   
     [Header("NON MODIFICABILE MENTRE è IN ESECUZIONE")]
     [Tooltip("Inserisci la velocià di rotazione")]
-    public float turnSpeed = 40f;
-    [Tooltip("Inserisci per quanto tempo vuoi far girare la porta")]
-    public float timeToClose = 5f;
+    public float turnSpeed = 35f;
+    [Tooltip("Impostazioni rotazione porta")]
+    public float timeToClose = 4f;
 
     private bool isFullTurned = false;
     private bool isClosed = false;
@@ -23,7 +23,6 @@ public class Door : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
         OpenDoor();
     }
 
